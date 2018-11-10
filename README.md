@@ -8,3 +8,4 @@ bash build.sh
 
 requirement: XeLaTe
 
+source: http://www.christianstudy.com/data/theology/know_the_devil.html
